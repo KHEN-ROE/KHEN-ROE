@@ -2,6 +2,6 @@
 int main()
 {
 
-printf("hello");
+printf("두 번째 10월 23일");
 
 }
